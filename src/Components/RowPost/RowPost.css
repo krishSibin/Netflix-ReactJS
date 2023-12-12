@@ -1,0 +1,34 @@
+
+
+.rowimg{
+    height: 240px;
+    width: 175px;
+    margin-left: 20px;
+
+}
+.rowsmallimg{
+    height: 150px;
+    width: 175px;
+    margin-left: 10px;
+
+}
+
+.rowimgs::-webkit-scrollbar{
+    display: none;
+}
+
+.heading{
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.rowimgs{
+    display: flex;
+    margin-top: 10px;
+   
+
+    width:100%;
+    overflow-x: scroll;
+
+}
